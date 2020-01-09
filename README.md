@@ -10,7 +10,7 @@
 
 # Implementing nbdev
 
-> A test to show how you can easily create Python libraries from notebook projects!
+> A test to show how you can easily create Python libraries from notebook projects! My new functions do wondeful things
 
 
 Here we've implemented a new function called `say_hello`
@@ -54,6 +54,42 @@ tmp_function()
 <div class="output_area" markdown="1">
 
     This is working
+
+
+</div>
+
+</div>
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+new_function()
+```
+
+</div>
+<div class="output_area" markdown="1">
+
+    some new func
+
+
+</div>
+
+</div>
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+new_fun(1,2)
+```
+
+</div>
+<div class="output_area" markdown="1">
+
+
+
+
+    3
+
 
 
 </div>
