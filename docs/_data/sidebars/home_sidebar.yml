@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: some test functions
+      title: Core module docs
       url: /core
     output: web
     title: implementingnbdev
