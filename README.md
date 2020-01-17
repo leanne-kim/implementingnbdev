@@ -10,7 +10,7 @@
 
 # Implementing nbdev
 
-> A test to show how you can easily create Python libraries from notebook projects! My new functions do wondeful things
+> Some new library for experimenting with
 
 
 Here we've implemented a new function called `say_hello`
@@ -47,34 +47,26 @@ say_hello("Leanne")
 <div class="input_area" markdown="1">
 
 ```python
-tmp_function()
+say_hello("Rue")
 ```
 
 </div>
 <div class="output_area" markdown="1">
 
-    This is working
 
 
-</div>
 
-</div>
-<div class="codecell" markdown="1">
-<div class="input_area" markdown="1">
+    'Hello Rue!'
 
-```python
-new_function()
-```
-
-</div>
-<div class="output_area" markdown="1">
-
-    some new func
 
 
 </div>
 
 </div>
+
+### New_fun
+
+This enables you to add 2 numbers together and returns the sum. 
 <div class="codecell" markdown="1">
 <div class="input_area" markdown="1">
 
@@ -89,6 +81,49 @@ new_fun(1,2)
 
 
     3
+
+
+
+</div>
+
+</div>
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+new_fun(2,3)
+```
+
+</div>
+<div class="output_area" markdown="1">
+
+
+
+
+    5
+
+
+
+</div>
+
+</div>
+
+### Takeaway functionality
+> This enables a new function
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+takeaway(3,4)
+```
+
+</div>
+<div class="output_area" markdown="1">
+
+
+
+
+    1
 
 
 
